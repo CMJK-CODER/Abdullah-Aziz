@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-urdu {
+    font-family: "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", "Alvi Nastaleeq", serif;
+  }
+}
+
+/* Custom scrollbar for pleasant reading and table navigation */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff0ef;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ddbfc3;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8b1e3f;
+}
+

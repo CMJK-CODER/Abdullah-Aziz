@@ -1,0 +1,6 @@
+{
+  "name": "Kitabistan Admin",
+  "description": "Official management and publishing portal for Kitabistan Urdu Novels library featuring manuscript catalog, chapter Nastaleeq editor, writer submissions, reader rewards, and payout pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
